@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="bakdata.generic.avro.reflect" type="repository">
+    <properties maven-id="com.bakdata.generic-avro-reflect:generic-avro-reflect:1.0.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bakdata/generic-avro-reflect/generic-avro-reflect/1.0.6/generic-avro-reflect-1.0.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/avro/avro/1.8.2/avro-1.8.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-core-asl/1.9.13/jackson-core-asl-1.9.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-asl/1.9.13/jackson-mapper-asl-1.9.13.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/thoughtworks/paranamer/paranamer/2.7/paranamer-2.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/xerial/snappy/snappy-java/1.1.1.3/snappy-java-1.1.1.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/tukaani/xz/1.5/xz-1.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-engine/5.3.0/junit-jupiter-engine-5.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apiguardian/apiguardian-api/1.0.0/apiguardian-api-1.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-engine/1.3.0/junit-platform-engine-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.3.0/junit-platform-commons-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/opentest4j/opentest4j/1.1.0/opentest4j-1.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.3.0/junit-jupiter-api-5.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/objenesis/objenesis/3.0.1/objenesis-3.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/mdkt/compiler/InMemoryJavaCompiler/1.3.0/InMemoryJavaCompiler-1.3.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/27.0.1-jre/guava-27.0.1-jre.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/2.5.2/checker-qual-2.5.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/errorprone/error_prone_annotations/2.2.0/error_prone_annotations-2.2.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/j2objc/j2objc-annotations/1.1/j2objc-annotations-1.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/mojo/animal-sniffer-annotations/1.17/animal-sniffer-annotations-1.17.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

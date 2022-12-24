@@ -1,4 +1,4 @@
-package usedClasses;
+package ClassesUse;
 
 public class Impl02_02 implements Interface02 {
 

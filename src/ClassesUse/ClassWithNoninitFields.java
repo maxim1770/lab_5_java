@@ -1,6 +1,6 @@
-package usedClasses;
+package ClassesUse;
 
-import reflection.AutoInjectable;
+import my_reflection.AutoInjectable;
 
 public class ClassWithNoninitFields {
 	// Поля без инициализации, помеченные аннотацией 'AutoInjectable'

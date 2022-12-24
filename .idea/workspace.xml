@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3646f5a6-f3bd-4d76-b46f-d869242a527b" name="Changes" comment="" />
+    <list default="true" id="3646f5a6-f3bd-4d76-b46f-d869242a527b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab_5_java_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassesUse/ClassWithNoninitFields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassesUse/Impl01_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassesUse/Impl01_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassesUse/Impl02_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassesUse/Impl02_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassesUse/Interface01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ClassesUse/Interface02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/properties.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2JMUuPiiXmNGAo3vAhlr11Ez79a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,11 +40,48 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/MaxDroN/Desktop/JavaЛаба/lab_5_java_/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MaxDroN\Desktop\JavaЛаба\lab_5_java_\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_reflection.Runner" />
+      <module name="lab_5_java_" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my_reflection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +90,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1671887674365</updated>
+      <workItem from="1671887676206" duration="303000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
