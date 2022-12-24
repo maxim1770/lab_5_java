@@ -1,0 +1,2 @@
+usedClasses.Interface01=usedClasses.Impl01_02
+usedClasses.Interface02=usedClasses.Impl02_01
